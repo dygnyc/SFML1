@@ -1,0 +1,6 @@
+#ignore linux build and executables
+
+*
+!*.*
+!*/
+*.o
